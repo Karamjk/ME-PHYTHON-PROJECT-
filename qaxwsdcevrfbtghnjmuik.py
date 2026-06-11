@@ -1,0 +1,11 @@
+a=10
+b=64
+c=94
+blue=95
+n=7
+g=82
+m=3
+u=1
+i=4
+p=(a+b+c)/blue*n-g+m-u+i
+print(p)
